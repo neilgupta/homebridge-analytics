@@ -1,0 +1,19 @@
+{
+  "name": "homebridge-analytics",
+  "version": "0.0.1",
+  "description": "Homebridge plugin to track device usage",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neilgupta/homebridge-analytics.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
